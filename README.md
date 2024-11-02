@@ -15,13 +15,12 @@ This project explores sentiment analysis on textual and audio data by analyzing 
    git clone https://github.com/SparshK312/sentiment-analysis-machine-learning.git
    cd sentiment-analysis-machine-learning
 
-2. Install Dependencies:
+2. **Install Dependencies**:
 Ensure you have Python installed, then use the following command to install required packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-Data Access:
+   pip install -r requirements.txt
+
+3. **Data Access**:
 The datasets used in this project are currently stored in Google Drive and are not publicly available. To replicate the project, you would need to provide your own datasets or adjust the code to use alternative data sources.
 
 Note: Future versions of this project may include publicly accessible sample data or instructions for data acquisition to facilitate easier replication.
